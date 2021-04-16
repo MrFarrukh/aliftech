@@ -1,0 +1,20 @@
+{
+  "works": [
+    {
+      "name": " Mr Farrukh",
+      "pos": "Middle",
+      "gender": "Male",
+      "spec": "IT",
+      "date": "2002-08-26",
+      "id": 1
+    },
+    {
+      "name": "Shoxrux",
+      "pos": "Junior",
+      "gender": "Male",
+      "spec": "IT",
+      "date": "1995-08-19",
+      "id": 2
+    }
+  ]
+}
